@@ -1,3 +1,9 @@
+/*!
+ * Haidar A Abdulhadi (https://haidarjafari.com/)
+ * Copyright (c) 2020 Haidar A Abdulhadi
+ * Licensed under MIT (https://github.com/Haidarr/Pure-CSS3-HTML5/blob/master/LICENSE)
+ */
+
 html { 
   margin: 0;
 }
@@ -720,7 +726,6 @@ body {
   height: 50vh;
   left: 0;
   margin: auto;
-  overflow: hidden;
   position: absolute;
   width: 100%;
   z-index: -4;
