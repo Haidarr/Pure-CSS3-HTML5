@@ -9,4 +9,4 @@ Clone the repository:
 https://github.com/Haidarr/Pure-CSS3-HTML5.git
 ```
 
-Or Download Zip, and extract the file and open the HTML file.
+Or Download the Zip file, extract it and run the HTML file.
