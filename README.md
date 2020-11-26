@@ -1,5 +1,7 @@
 # Pure CSS 3
 No Images are included, all the draws been designed in CSS only.
+For more details, check out the [Tutorial](https://haidarjafari.com/articles/pure-css-drawings).
+Check out the [Live Demo](https://haidarjafari.com/portfolio/pure-css/daddy-pig.html).
 
 
 ## Getting Started
